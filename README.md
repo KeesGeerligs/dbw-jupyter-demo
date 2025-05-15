@@ -1,4 +1,4 @@
-# How to Use This Project
+# How to Use Nosana
 
 This project allows you to run a Jupyter Notebook on a GPU-enabled container using the Nosana platform.
 
